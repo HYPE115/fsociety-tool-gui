@@ -1,2 +1,2 @@
 # fsociety-tool-gui
-just a mistletoe for your projects
+just a gui for your projects
